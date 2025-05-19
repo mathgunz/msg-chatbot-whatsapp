@@ -1,16 +1,11 @@
-<<<<<<< HEAD
 # compiled output
 /dist
 /node_modules
 /build
-
-=======
->>>>>>> 04ba7cce4d3c8554b9701d565689fe6d673f6357
 # Logs
 logs
 *.log
 npm-debug.log*
-<<<<<<< HEAD
 pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -38,7 +33,6 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-=======
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
